@@ -1,8 +1,15 @@
-body{
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+body {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
-div{
-    margin-bottom: 20px;
+div {
+  margin-bottom: 20px;
+}
+
+.photos-container img {
+  width: 250px;
+  height: 250px;
+  border: 2px solid black;
 }
